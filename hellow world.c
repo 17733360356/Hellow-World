@@ -1,6 +1,8 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
-printf("hellow world!");
+printf("hellow world\n");
+  
+  return 0;
 
 }
